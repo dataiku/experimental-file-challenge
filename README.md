@@ -1,5 +1,5 @@
-# Experimental file challenge
-Dataiku Developer Challenge (ecosystem)
+# Dataiku Experimental File challenge
+>Dataiku Developer Challenge (ecosystem)
 
 ## Overview
 A Dataiku Experimental File (DEF) stores data in a way similar to Excel or CSV files. Like Excel files, DEF files are binary files with a specific structure. DEF files have a specified number of columns, each with a name and a type (either String, Integer or Floating-point numbers) and can have any number of rows. Like CSV files, NULL values are not supported so each cell contains an actual value.
