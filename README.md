@@ -92,7 +92,7 @@ Challenge
 
 Your mission is to write a program that takes as input a DEF file and print it on the console in a human readable format.
 
-For example, given the following movie.def file, 
+For example, given the following [movie.def](https://github.com/dataiku/experimental-file-challenge/raw/master/movie.def) file, 
 ```
 444b 5545 4648 0001 0000 0048 0000 0000
 0000 0004 0000 0003 0001 4d6f 7669 6500
